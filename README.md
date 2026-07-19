@@ -3,6 +3,7 @@
 Threadloom is a visual worldbuilding and narrative continuity engine designed for writers, game masters, and narrative designers. Unlike traditional documentation tools, Threadloom features a custom Logic Engine that automatically detects plot holes and continuity errors by evaluating timeline events against user-defined world rules.
 
 This is just work done for a test, Users are allowed to do necessary changes according to their preferences or just use the prebuilt-project code if the users expectations are just to see the working idea.
+Please use a powerful IDE for this project. For e.g. - JETBRAIN's WebStorm or Micorsoft's VS Code.
 
 More importantly before you proceed:
 # Threadloom Database and SQL Setup Guide
