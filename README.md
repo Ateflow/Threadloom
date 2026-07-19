@@ -63,7 +63,7 @@ The core differentiator of Threadloom is its ability to evaluate narrative consi
 5. **State Mutation:** If a violation is found, the backend updates the entity's record in the database to include a warning flag.
 6. **Visual Update:** The frontend fetches the updated state, rendering the specific node on the graph with a warning state (e.g., a red border and glow).
 
-## Prerequisites
+## Needs
 
 - Node.js (v18 or higher)
 - PostgreSQL (v14 or higher)
