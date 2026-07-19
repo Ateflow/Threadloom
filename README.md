@@ -48,16 +48,21 @@ The core differentiator of Threadloom is its ability to evaluate narrative consi
 
 ## Installation and Setup
 
+Note: You can just download "create-threadloom.js" file & open your terminal in the folder which you've placed this file.
+Open your terminal in the folder where you saved it.
+Run node create-threadloom.js.
+The script will create a folder called threadloom-project containing the entire application structure, ready to be used on any machine.
+
+
+
+
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/threadloom.git
 cd threadloom
 
-# Threadloom
-A visual worldbuilding and narrative continuity engine.
-## Setup
-1. Backend: `cd threadloom-backend`, configure `.env`, run `npm install` and `npm run db:push`.
+
 2. Frontend: `cd threadloom-frontend`, run `npm install`.
 3. Run `npm run dev` in both folders.
 
