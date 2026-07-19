@@ -2,6 +2,8 @@
 
 Threadloom is a visual worldbuilding and narrative continuity engine designed for writers, game masters, and narrative designers. Unlike traditional documentation tools, Threadloom features a custom Logic Engine that automatically detects plot holes and continuity errors by evaluating timeline events against user-defined world rules.
 
+This is just work done for a test, Users are allowed to do necessary changes according to their preferences or just use the prebuilt-project code if the users expectations are just to see the working idea.
+
 ## Features
 
 - **Interactive Entity Graph:** Visually map characters, locations, and items using an infinite, draggable canvas powered by ReactFlow.
