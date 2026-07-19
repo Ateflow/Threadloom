@@ -4,6 +4,27 @@ Threadloom is a visual worldbuilding and narrative continuity engine designed fo
 
 This is just work done for a test, Users are allowed to do necessary changes according to their preferences or just use the prebuilt-project code if the users expectations are just to see the working idea.
 
+More importantly before you proceed:
+# Threadloom Database and SQL Setup Guide
+
+This document provides detailed instructions for setting up the PostgreSQL database, managing the schema, and using SQL to interact with the Threadloom data via DBeaver.
+
+## 1. Prerequisites
+
+Before proceeding, ensure you have the following installed on your system:
+* PostgreSQL (Version 14 or higher)
+* DBeaver (Community Edition is sufficient for visual database management)
+* Node.js (Version 18 or higher)
+
+## 2. Creating the Database
+
+You must create an empty database container before the application can generate tables.
+
+1. Open your terminal or command prompt.
+2. Access the PostgreSQL interactive terminal:
+   ```bash
+   psql -U postgres
+
 ## Features
 
 - **Interactive Entity Graph:** Visually map characters, locations, and items using an infinite, draggable canvas powered by ReactFlow.
@@ -58,7 +79,7 @@ The script will create a folder called threadloom-project containing the entire 
 
 
 
-### 1. Clone the Repository
+### 3. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/threadloom.git
